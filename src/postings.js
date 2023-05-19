@@ -7,14 +7,14 @@ export const postings = [
     },
     {
         title: 'Piranhas',
-        description: 'I didn\'t know these little guys were carnivorous and now my cats upset',
+        description: "I didn't know these little guys were carnivorous and now my cats upset",
         price: '$25',
         imageURL: '/assets/piranha.jpeg'
     },
     {
         title: 'Need help beating the Water Temple',
         description: 'Everyone told me it would be hard but I literally cannot adjust the water levels one more time without going insane',
-        price: 'You name it, I\'ll pay it',
+        price: "You name it, I'll pay it",
         imageURL: '/assets/water_temple.jpeg'
     },
     {
